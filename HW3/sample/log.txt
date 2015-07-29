@@ -1,0 +1,186 @@
+Begin parsing script file 'script-easy.txt':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 1789.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 2457.
+
+read(L3,'in3.txt')
+Input file 'in3.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 2539.
+
+read(L4,'in4.txt')
+Input file 'in4.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 1649.
+
+read(L5,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L5' is: 1720.
+
+read(L6,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L6' is: 801.
+
+R1=L1+L2
+Number of bytes used by list 'R1' is: 3447.
+
+write(R1,'out1.txt',forward)
+List is successfully written to file 'out1.txt' in forward order.
+Number of bytes used by list 'R1' is: 3447.
+
+R2=L1*L2
+Number of bytes used by list 'R2' is: 799.
+
+write(R2,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'R2' is: 799.
+
+End parsing script file 'script-easy.txt'.
+
+Begin parsing script file 'script-medium.txt':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 1789.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 2457.
+
+read(L3,'in3.txt')
+Input file 'in3.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 2539.
+
+read(L4,'in4.txt')
+Input file 'in4.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 1649.
+
+read(L5,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L5' is: 1720.
+
+read(L6,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L6' is: 801.
+
+R3=(L1+L2)*L3
+Number of bytes used by list 'R3' is: 2218.
+
+write(R3,'out3.txt',forward)
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'R3' is: 2218.
+
+R4=L1+L2*L3
+Number of bytes used by list 'R4' is: 3169.
+
+write(R4,'out4.txt',reverse)
+List is successfully written to file 'out4.txt' in reverse order.
+Number of bytes used by list 'R4' is: 3169.
+
+R5=L1+L2*L3+L4
+Number of bytes used by list 'R5' is: 4351.
+
+write(R5,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'R5' is: 4351.
+
+End parsing script file 'script-medium.txt'.
+
+Begin parsing script file 'script-hard.txt':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 1789.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 2457.
+
+read(L3,'in3.txt')
+Input file 'in3.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 2539.
+
+read(L4,'in4.txt')
+Input file 'in4.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 1649.
+
+read(L5,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L5' is: 1720.
+
+read(L6,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L6' is: 801.
+
+R6=L1+L2+L3+L4+L5+L6
+Number of bytes used by list 'R6' is: 6332.
+
+write(R6,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'R6' is: 6332.
+
+R7=L1*L2*L3*L4*L5*L6
+Number of bytes used by list 'R7' is: 117.
+
+write(R7,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'R7' is: 117.
+
+R8=R6+R7
+Number of bytes used by list 'R8' is: 6332.
+
+write(R8,'out8.txt',forward)
+List is successfully written to file 'out8.txt' in forward order.
+Number of bytes used by list 'R8' is: 6332.
+
+End parsing script file 'script-hard.txt'.
+
+Begin parsing script file 'script-very_hard.txt':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 1789.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 2457.
+
+read(L3,'in3.txt')
+Input file 'in3.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 2539.
+
+read(L4,'in4.txt')
+Input file 'in4.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 1649.
+
+read(L5,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L5' is: 1720.
+
+read(L6,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L6' is: 801.
+
+R6=L1+L2+L3+L4+L5+
+Error: invalid arithmetic expression.
+
+write(R9,'out9.txt',reverse)
+Error: invalid operation, because list 'R9' is not created yet.
+
+R7=(L1*)L2
+Error: invalid arithmetic expression.
+
+write(R10,'out10.txt',forward)
+Error: invalid operation, because list 'R10' is not created yet.
+
+R11=L6+(L1*L2
+Error: invalid arithmetic expression.
+
+write(R11,'out11.txt',forward)
+Error: invalid operation, because list 'R11' is not created yet.
+
+End parsing script file 'script-very_hard.txt'.
+

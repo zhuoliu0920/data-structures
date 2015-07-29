@@ -1,0 +1,49 @@
+read(L1,'input1.txt')
+Input file 'input1.txt' is successfully read into list. 
+Number of bytes used by list is: 531. 
+
+insert(L1,'twenty/four')
+'four' has been inserted after the first appeared word 'twenty'. 
+Number of bytes used by list is: 584. 
+
+write(L1,'out1.txt',reverse)
+List is successfully written to file 'out1.txt' in reverse order. 
+Number of bytes used by list is: 584. 
+
+insert(L1,'arizona/texas')
+'texas' has been inserted after the first appeared word 'arizona'. 
+Number of bytes used by list is: 638. 
+
+write(L1,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order. 
+Number of bytes used by list is: 638. 
+
+insert(L1,'two/three')
+'three' has been inserted after the first appeared word 'two'. 
+Number of bytes used by list is: 692. 
+
+write(L1,'out3.txt',forward)
+List is successfully written to file 'out3.txt' in forward order. 
+Number of bytes used by list is: 692. 
+
+delete(L1,'one')
+1 word(s) 'one' have been deleted. 
+Number of bytes used by list is: 639. 
+
+insert(L1,'three/four')
+'four' has been inserted after the first appeared word 'three'. 
+Number of bytes used by list is: 692. 
+
+write(L1,'out4.txt',forward)
+List is successfully written to file 'out4.txt' in forward order. 
+Number of bytes used by list is: 692. 
+
+delete(L1,'twenty')
+1 word(s) 'twenty' have been deleted. 
+Number of bytes used by list is: 635. 
+
+write(L1,'out5.txt',reverse)
+List is successfully written to file 'out5.txt' in reverse order. 
+Number of bytes used by list is: 635. 
+
+end of parsing

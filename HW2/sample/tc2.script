@@ -1,0 +1,4 @@
+read(L1,'in1.txt')
+read(L2,'in2.txt')
+intersection(L1,L2,I1)
+write(I1,'out2.txt',forward)

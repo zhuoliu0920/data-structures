@@ -1,0 +1,3 @@
+omega 1
+mega 1
+alpha 1

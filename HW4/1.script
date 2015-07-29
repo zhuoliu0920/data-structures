@@ -1,0 +1,8 @@
+read(L1,'in1.txt')
+read(L2,'in2.txt')
+read(L3,'in1.txt')
+read(L4,'in2.txt')
+intersection(L1,L2,L5)
+union(L3,L4,L6)
+write(L5,'out2.txt',reverse)
+write(L6,'out3.txt')

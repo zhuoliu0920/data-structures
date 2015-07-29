@@ -1,0 +1,164 @@
+Begin parsing:
+
+read(L1,'sample1.txt')
+Input file 'sample1.txt' is successfully read into list.
+Number of bytes used by list is: 2262.
+
+insert(L1,'mantid/tepid')
+'tepid' has been inserted after the first appeared word 'mantid'.
+Number of bytes used by list is: 2316.
+
+write(L1,'out1.txt',forward)
+List is successfully written to file 'out1.txt' in forward order.
+Number of bytes used by list is: 2316.
+
+delete(L1,'tepid')
+1 word(s) 'tepid' have been deleted.
+Number of bytes used by list is: 2262.
+
+write(L1,'out2.txt',forward)
+List is successfully written to file 'out2.txt' in forward order.
+Number of bytes used by list is: 2262.
+
+insert(L1,'astrogation/terespsicore')
+'terespsicore' has been inserted after the first appeared word 'astrogation'.
+Number of bytes used by list is: 2323.
+
+write(L1,'out3.txt',forward)
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list is: 2323.
+
+insert(L1,'financing/morris')
+'morris' has been inserted after the first appeared word 'financing'.
+Number of bytes used by list is: 2378.
+
+write(L1,'out4.txt',forward)
+List is successfully written to file 'out4.txt' in forward order.
+Number of bytes used by list is: 2378.
+
+delete(L1,'morris')
+1 word(s) 'morris' have been deleted.
+Number of bytes used by list is: 2323.
+
+write(L1,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list is: 2323.
+
+insert(L1,'nonhackneyed/sesquipedaliophobia')
+'sesquipedaliophobia' has been inserted after the first appeared word 'nonhackneyed'.
+Number of bytes used by list is: 2391.
+
+write(L1,'out6.txt',forward)
+List is successfully written to file 'out6.txt' in forward order.
+Number of bytes used by list is: 2391.
+
+delete(L1,'spitfire/tarantula')
+0 word(s) 'spitfire/tarantula' have been deleted.
+Number of bytes used by list is: 2391.
+
+write(L1,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list is: 2391.
+
+end of parsing
+Begin parsing:
+
+read(L12,'sample2.txt')
+Input file 'sample2.txt' is successfully read into list.
+Number of bytes used by list is: 504.
+
+insert(L12,'aphelion/sesquipedalian')
+'sesquipedalian' has been inserted after the first appeared word 'aphelion'.
+Number of bytes used by list is: 567.
+
+write(L12,'out8.txt',forward)
+List is successfully written to file 'out8.txt' in forward order.
+Number of bytes used by list is: 567.
+
+write(L12,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list is: 567.
+
+end of parsing
+Begin parsing:
+
+read(L12,'sample2.txt')
+Input file 'sample2.txt' is successfully read into list.
+Number of bytes used by list is: 504.
+
+insert(L12,'aphelion/sesquipedalian')
+'sesquipedalian' has been inserted after the first appeared word 'aphelion'.
+Number of bytes used by list is: 567.
+
+write(L12,'out8.txt',forward)
+List is successfully written to file 'out8.txt' in forward order.
+Number of bytes used by list is: 567.
+
+write(L12,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list is: 567.
+
+end of parsing
+Begin parsing:
+
+read(L1,'sample1.txt')
+Input file 'sample1.txt' is successfully read into list.
+Number of bytes used by list is: 2262.
+
+insert(L1,'mantid/tepid')
+'tepid' has been inserted after the first appeared word 'mantid'.
+Number of bytes used by list is: 2316.
+
+write(L1,'out1.txt',forward)
+List is successfully written to file 'out1.txt' in forward order.
+Number of bytes used by list is: 2316.
+
+delete(L1,'tepid')
+1 word(s) 'tepid' have been deleted.
+Number of bytes used by list is: 2262.
+
+write(L1,'out2.txt',forward)
+List is successfully written to file 'out2.txt' in forward order.
+Number of bytes used by list is: 2262.
+
+insert(L1,'astrogation/terespsicore')
+'terespsicore' has been inserted after the first appeared word 'astrogation'.
+Number of bytes used by list is: 2323.
+
+write(L1,'out3.txt',forward)
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list is: 2323.
+
+insert(L1,'financing/morris')
+'morris' has been inserted after the first appeared word 'financing'.
+Number of bytes used by list is: 2378.
+
+write(L1,'out4.txt',forward)
+List is successfully written to file 'out4.txt' in forward order.
+Number of bytes used by list is: 2378.
+
+delete(L1,'morris')
+1 word(s) 'morris' have been deleted.
+Number of bytes used by list is: 2323.
+
+write(L1,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list is: 2323.
+
+insert(L1,'nonhackneyed/sesquipedaliophobia')
+'sesquipedaliophobia' has been inserted after the first appeared word 'nonhackneyed'.
+Number of bytes used by list is: 2391.
+
+write(L1,'out6.txt',forward)
+List is successfully written to file 'out6.txt' in forward order.
+Number of bytes used by list is: 2391.
+
+delete(L1,'spitfire/tarantula')
+0 word(s) 'spitfire/tarantula' have been deleted.
+Number of bytes used by list is: 2391.
+
+write(L1,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list is: 2391.
+
+end of parsing

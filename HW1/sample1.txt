@@ -1,0 +1,5 @@
+read(L1,'input1.txt')
+insert(L1,'delta/gamma')
+delete(L1,'one')
+write(L2,'out5.txt',reverse)
+write(L1,'out4.txt',forward)

@@ -1,0 +1,4 @@
+read(L1,'in1.txt')
+read(L2,'in2.txt')
+union(L1,L2,U1)
+write(U1,'out1.txt',reverse)

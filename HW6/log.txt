@@ -1,0 +1,17 @@
+Begin parsing script file 'input.txt':
+
+ME HE SHE
+Error: above line is not a valid script form.
+
+End parsing script file 'input.txt'.
+
+Begin parsing script file './corpus/input.script':
+
+load(corpus,'filelist2.txt')
+Error: fail to open input file 'filelist2.txt'.
+
+filter(corpus,'dictionary.txt')
+Error: invalid operation, because list 'corpus' is not created yet.
+
+End parsing script file './corpus/input.script'.
+

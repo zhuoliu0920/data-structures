@@ -1,0 +1,57 @@
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 7993.
+
+
+Error: above line is not a valid script form.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 7993.
+
+End parsing script file '1.script'.
+

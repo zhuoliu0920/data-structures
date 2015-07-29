@@ -1,0 +1,12 @@
+load(corpus,'filelist.txt')
+filter(corpus,'dictionary.txt')
+index(corpus)
+search(R1,'GOOGLE',corpus)
+write(R1,'output1.txt')
+search(R2,'system',corpus)
+write(R2,'output2.txt')
+search(R3,'don't',corpus)
+write(R3,'output3.txt')
+union(R1,R2,R4)
+write(R4,'output3.txt',reverse)
+

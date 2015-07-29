@@ -1,0 +1,6 @@
+load(W1,'filename1.txt')
+load(W2,'filename2.txt')
+load(W3,'filename3.txt')
+rank(W1,'out1.txt')
+rank(W2,'out2.txt')
+rank(W3,'out3.txt')

@@ -1,0 +1,432 @@
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 0.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 37.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 0.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 37.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 37.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 0.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 0.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 37.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 37.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 38.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 38.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 75.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 75.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 38.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 38.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 75.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 75.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 37.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 37.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 37.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 37.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 37.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 37.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 37.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 37.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 37.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 37.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 37.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 74.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 74.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 37.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 74.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 74.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 37.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 74.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 74.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 74.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 74.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 111.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 111.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 74.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 74.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 37.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 74.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 37.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 74.
+
+End parsing script file '1.script'.
+
+Begin parsing script file '1.script':
+
+read(L1,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 74.
+
+read(L2,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L2' is: 37.
+
+read(L3,'in1.txt')
+Input file 'in1.txt' is successfully read into list.
+Number of bytes used by list 'L3' is: 74.
+
+read(L4,'in2.txt')
+Input file 'in2.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 37.
+
+intersection(L1,L2,L5)
+Complexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L5' is: 0.
+
+union(L3,L4,L6)
+Comlexity is successfully written to file 'out.csv'.
+Number of bytes used by list 'L6' is: 111.
+
+write(L5,'out2.txt',reverse)
+List is successfully written to file 'out2.txt' in reverse order.
+Number of bytes used by list 'L5' is: 0.
+
+write(L6,'out3.txt')
+List is successfully written to file 'out3.txt' in forward order.
+Number of bytes used by list 'L6' is: 111.
+
+End parsing script file '1.script'.
+

@@ -1,0 +1,8 @@
+Error: Script file 'input.scrip' cannot be opened or does not exist.
+
+Error: no script file specified.
+
+Error: dictionary file 'nary.txt' cannot be correctly opened.
+
+Error: no dictionary specified.
+

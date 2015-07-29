@@ -1,0 +1,1 @@
+read(L1,'input1.txt')

@@ -1,0 +1,8 @@
+alfa 2
+alpha 2
+beta 1
+halpha 1
+kapa 1
+mega 1
+omega 1
+veta 1

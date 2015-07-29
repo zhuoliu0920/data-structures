@@ -1,0 +1,12 @@
+read(L1,'in1.txt')
+read(L2,'in2.txt')
+read(L3,'in3.txt')
+read(L4,'in4.txt')
+read(L5,'in5.txt')
+read(L6,'in6.txt')
+R3=(L1+L2)*L3
+write(R3,'out3.txt',forward)
+R4=L1+L2*L3
+write(R4,'out4.txt',reverse)
+R5=L1+L2*L3+L4
+write(R5,'out5.txt',forward)

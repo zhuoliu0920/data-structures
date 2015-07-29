@@ -1,0 +1,3 @@
+size,size,operation,T(n) estimate,T(n) actual,c,n0,g(n)=n^2
+178,178,intersection,266252,266252,53,1,31684
+178,178,union,269451,265896,52,1,31684

@@ -1,0 +1,9 @@
+page1.html 3
+page2.html 3
+page3.html 2
+page4.html 1
+page5.html 1
+
+page6.html Broken Link
+
+page5.html Sink

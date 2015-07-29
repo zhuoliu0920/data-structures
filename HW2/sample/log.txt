@@ -1,0 +1,263 @@
+Begin parsing script file 'tc5.script':
+
+read(L1,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 309.
+
+read(L4,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 38.
+
+write(L1,'out9.txt',forward)
+List is successfully written to file 'out9.txt' in forward order.
+Number of bytes used by list 'L1' is: 309.
+
+write(L4,'out10.txt',reverse)
+List is successfully written to file 'out10.txt' in reverse order.
+Number of bytes used by list 'L4' is: 38.
+
+intersection(L1,L4,I2)
+Number of bytes used by list 'I2' is: 38.
+
+write(I2,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I2' is: 38.
+
+write(I2,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I2' is: 38.
+
+union(L1,L4,U2)
+Number of bytes used by list 'U2' is: 309.
+
+write(U2,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'U2' is: 309.
+
+write(U2,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list 'U2' is: 309.
+
+End parsing script file 'tc5.script'.
+
+Begin parsing script file 'tc5.script':
+
+read(L1,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 309.
+
+read(L4,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 38.
+
+write(L1,'out9.txt',forward)
+List is successfully written to file 'out9.txt' in forward order.
+Number of bytes used by list 'L1' is: 309.
+
+write(L4,'out10.txt',reverse)
+List is successfully written to file 'out10.txt' in reverse order.
+Number of bytes used by list 'L4' is: 38.
+
+intersection(L1,L1,I2)
+Number of bytes used by list 'I2' is: 309.
+
+write(I2,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I2' is: 309.
+
+write(I2,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I2' is: 309.
+
+union(I2,I2,U2)
+Number of bytes used by list 'U2' is: 309.
+
+write(U2,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'U2' is: 309.
+
+write(U2,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list 'U2' is: 309.
+
+End parsing script file 'tc5.script'.
+
+Begin parsing script file 'tc5.script':
+
+read(L1,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 37.
+
+read(L4,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 38.
+
+write(L1,'out9.txt',forward)
+List is successfully written to file 'out9.txt' in forward order.
+Number of bytes used by list 'L1' is: 37.
+
+write(L4,'out10.txt',reverse)
+List is successfully written to file 'out10.txt' in reverse order.
+Number of bytes used by list 'L4' is: 38.
+
+intersection(L1,L1,I2)
+Number of bytes used by list 'I2' is: 37.
+
+write(I2,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I2' is: 37.
+
+write(I2,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I2' is: 37.
+
+union(I2,I2,U2)
+Number of bytes used by list 'U2' is: 37.
+
+write(U2,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'U2' is: 37.
+
+write(U2,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list 'U2' is: 37.
+
+End parsing script file 'tc5.script'.
+
+Begin parsing script file 'tc5.script':
+
+read(L1,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 74.
+
+read(L4,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 38.
+
+write(L1,'out9.txt',forward)
+List is successfully written to file 'out9.txt' in forward order.
+Number of bytes used by list 'L1' is: 74.
+
+write(L4,'out10.txt',reverse)
+List is successfully written to file 'out10.txt' in reverse order.
+Number of bytes used by list 'L4' is: 38.
+
+intersection(L1,L1,I2)
+Number of bytes used by list 'I2' is: 74.
+
+write(I2,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I2' is: 74.
+
+write(I2,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I2' is: 74.
+
+union(I2,I2,U2)
+Number of bytes used by list 'U2' is: 74.
+
+write(U2,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'U2' is: 74.
+
+write(U2,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list 'U2' is: 74.
+
+End parsing script file 'tc5.script'.
+
+Begin parsing script file 'tc5.script':
+
+read(L1,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 74.
+
+read(L4,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 38.
+
+write(L1,'out9.txt',forward)
+List is successfully written to file 'out9.txt' in forward order.
+Number of bytes used by list 'L1' is: 74.
+
+write(L4,'out10.txt',reverse)
+List is successfully written to file 'out10.txt' in reverse order.
+Number of bytes used by list 'L4' is: 38.
+
+intersection(L1,L1,I2)
+Number of bytes used by list 'I2' is: 74.
+
+write(I2,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I2' is: 74.
+
+write(I2,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I2' is: 74.
+
+union(L1,L1,U2)
+Number of bytes used by list 'U2' is: 74.
+
+write(U2,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'U2' is: 74.
+
+write(U2,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list 'U2' is: 74.
+
+End parsing script file 'tc5.script'.
+
+Begin parsing script file 'tc5.script':
+
+read(L1,'in5.txt')
+Input file 'in5.txt' is successfully read into list.
+Number of bytes used by list 'L1' is: 0.
+
+read(L4,'in6.txt')
+Input file 'in6.txt' is successfully read into list.
+Number of bytes used by list 'L4' is: 38.
+
+write(L1,'out9.txt',forward)
+List is successfully written to file 'out9.txt' in forward order.
+Number of bytes used by list 'L1' is: 0.
+
+write(L4,'out10.txt',reverse)
+List is successfully written to file 'out10.txt' in reverse order.
+Number of bytes used by list 'L4' is: 38.
+
+intersection(L4,L1,I2)
+Number of bytes used by list 'I2' is: 0.
+
+intersection(L1,L4,I3)
+Number of bytes used by list 'I3' is: 0.
+
+write(I2,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I2' is: 0.
+
+write(I2,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I2' is: 0.
+
+write(I3,'out5.txt',forward)
+List is successfully written to file 'out5.txt' in forward order.
+Number of bytes used by list 'I3' is: 0.
+
+write(I3,'out6.txt',reverse)
+List is successfully written to file 'out6.txt' in reverse order.
+Number of bytes used by list 'I3' is: 0.
+
+union(L1,L4,U2)
+Number of bytes used by list 'U2' is: 38.
+
+write(U2,'out7.txt',forward)
+List is successfully written to file 'out7.txt' in forward order.
+Number of bytes used by list 'U2' is: 38.
+
+write(U2,'out8.txt',reverse)
+List is successfully written to file 'out8.txt' in reverse order.
+Number of bytes used by list 'U2' is: 38.
+
+End parsing script file 'tc5.script'.
+

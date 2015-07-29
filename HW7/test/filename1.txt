@@ -1,0 +1,5 @@
+Kuratowski1.html
+Kuratowski2.html
+Kuratowski3.html
+Kuratowski4.html
+Kuratowski5.html

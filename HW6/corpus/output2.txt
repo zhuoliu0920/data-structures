@@ -1,0 +1,15 @@
+g0pA_taskc.txt
+g0pB_taskb.txt
+g0pB_taskc.txt
+g0pD_taskc.txt
+g1pA_taskb.txt
+g1pB_taskb.txt
+g1pB_taskc.txt
+g2pA_taskc.txt
+g2pB_taskb.txt
+g3pA_taskc.txt
+g3pB_taskb.txt
+g4pB_taskc.txt
+g4pC_taskb.txt
+g4pD_taskc.txt
+orig_taskc.txt

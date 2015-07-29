@@ -1,0 +1,4 @@
+read(L12,'sample2.txt')
+insert(L12,'aphelion/sesquipedalian')
+write(L12,'out8.txt',forward)
+write(L12,'out8.txt',reverse)

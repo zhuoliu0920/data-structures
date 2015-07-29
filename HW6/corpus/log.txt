@@ -1,0 +1,121 @@
+Begin parsing script file 'input.script':
+
+load(corpus,'filelist.txt')
+Files specified in 'filelist.txt' are successfully loaded into list 'corpus'.
+
+filter(corpus,'dictionary.txt')
+Words from file 'dictionary.txt' are successfully eliminated from list 'corpus'.
+
+index(corpus)
+Hash table is sucessfully established (or updated).
+
+search(R1,'GOOGLE',corpus)
+Names of those files which contain the words: 'GOOGLE' are successfully found and written into list R1.
+
+write(R1,'output1.txt')
+List is successfully written to file 'output1.txt' in forward order.
+Number of bytes used by list 'R1' is: 900.
+
+search(R2,'system',corpus)
+Names of those files which contain the words: 'system' are successfully found and written into list R2.
+
+write(R2,'output2.txt')
+List is successfully written to file 'output2.txt' in forward order.
+Number of bytes used by list 'R2' is: 750.
+
+search(R3,'don't',corpus)
+Names of those files which contain the words: 'don't' are successfully found and written into list R3.
+
+write(R3,'output3.txt')
+List is successfully written to file 'output3.txt' in forward order.
+Number of bytes used by list 'R3' is: 0.
+
+End parsing script file 'input.script'.
+
+Begin parsing script file 'input.script':
+
+load(corpus,'filelist.txt')
+Files specified in 'filelist.txt' are successfully loaded into list 'corpus'.
+
+filter(corpus,'dictionary.txt')
+Words from file 'dictionary.txt' are successfully eliminated from list 'corpus'.
+
+index(corpus)
+Hash table is sucessfully established (or updated).
+
+search(R1,'GOOGLE',corpus)
+Names of those files which contain the words: 'GOOGLE' are successfully found and written into list R1.
+
+write(R1,'output1.txt')
+List is successfully written to file 'output1.txt' in forward order.
+Number of bytes used by list 'R1' is: 900.
+
+search(R2,'system',corpus)
+Names of those files which contain the words: 'system' are successfully found and written into list R2.
+
+write(R2,'output2.txt')
+List is successfully written to file 'output2.txt' in forward order.
+Number of bytes used by list 'R2' is: 750.
+
+search(R3,'don't',corpus)
+Names of those files which contain the words: 'don't' are successfully found and written into list R3.
+
+write(R3,'output3.txt')
+List is successfully written to file 'output3.txt' in forward order.
+Number of bytes used by list 'R3' is: 0.
+
+union(R4,R1,R2)
+Error: invalid operation, because list 'R4' is not created yet.
+
+write(R4,'output3.txt',reverse)
+Error: invalid operation, because list 'R4' is not created yet.
+
+
+Error: above line is not a valid script form.
+
+End parsing script file 'input.script'.
+
+Begin parsing script file 'input.script':
+
+load(corpus,'filelist.txt')
+Files specified in 'filelist.txt' are successfully loaded into list 'corpus'.
+
+filter(corpus,'dictionary.txt')
+Words from file 'dictionary.txt' are successfully eliminated from list 'corpus'.
+
+index(corpus)
+Hash table is sucessfully established (or updated).
+
+search(R1,'GOOGLE',corpus)
+Names of those files which contain the words: 'GOOGLE' are successfully found and written into list R1.
+
+write(R1,'output1.txt')
+List is successfully written to file 'output1.txt' in forward order.
+Number of bytes used by list 'R1' is: 900.
+
+search(R2,'system',corpus)
+Names of those files which contain the words: 'system' are successfully found and written into list R2.
+
+write(R2,'output2.txt')
+List is successfully written to file 'output2.txt' in forward order.
+Number of bytes used by list 'R2' is: 750.
+
+search(R3,'don't',corpus)
+Names of those files which contain the words: 'don't' are successfully found and written into list R3.
+
+write(R3,'output3.txt')
+List is successfully written to file 'output3.txt' in forward order.
+Number of bytes used by list 'R3' is: 0.
+
+union(R1,R2,R4)
+Number of bytes used by list 'R4' is: 1350.
+
+write(R4,'output3.txt',reverse)
+List is successfully written to file 'output3.txt' in reverse order.
+Number of bytes used by list 'R4' is: 1350.
+
+
+Error: above line is not a valid script form.
+
+End parsing script file 'input.script'.
+
